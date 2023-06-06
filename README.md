@@ -22,7 +22,6 @@
       <td width="20%" align="center">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css" width="65" height="65"/> 
       </td>
-      
     </tr>
   </tbody>
 </table>
