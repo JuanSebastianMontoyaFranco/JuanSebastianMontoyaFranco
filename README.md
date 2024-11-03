@@ -1,46 +1,18 @@
-<div align="center">
-<img  />
-  
-# 👋 Hello, world!! 👋
-  
-# PROGRAMMING
-<table>
-  <tbody>
-    <tr valign="top">
-       <td width="20%" align="center">
-        <a href="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" target="_blank"> <img src="https://cdn.pixabay.com/photo/2015/04/23/17/41/javascript-736400_960_720.png" alt="javascript" width="65" height="65"/> 
-      </td>
-      <td width="20%" align="center">
-        <a href="https://cdn-icons-png.flaticon.com/128/919/919830.png" target="_blank"> <img src="https://www.pas-solutions.ch/wp-content/uploads/2015/09/php-icon.jpg" alt="php" width="65" height="65"/> 
-      </td>
-        <td width="20%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/nodejs.svg">
-      </td>
-      <td width="20%" align="center">
-        <a href="https://cdn-icons-png.flaticon.com/512/174/174854.png" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" alt="html" width="65" height="65"/> 
-      </td>
-      <td width="20%" align="center">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css" width="65" height="65"/> 
-      </td>
-    </tr>
-  </tbody>
-</table>
-  
-  # DATABASE
-  
-  <table>
-  <tbody>
-    <tr valign="top">
-       <td width="20%" align="center">
-        <a href="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/128/5968/5968313.png" alt="mysql" width="65" height="65"/> 
-      </td>
-        <td width="20%" align="center">
-        <a href="https://cdn.fs.teachablecdn.com/UC6WjqwDT467G1ySBm88" target="_blank"> <img src="https://cdn.fs.teachablecdn.com/UC6WjqwDT467G1ySBm88" alt="firebase" width="65" height="65"/> 
-      </td>
-      <td width="20%" align="center">
-       <a href="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mongodb-icon-1.svg" alt="mongodb" width="65" height="65"/> 
-      </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+# Hola hola!:
+¡Hola! Soy un ingeniero informático especializado en Inteligencia Artificial con una pasión insaciable por aprender y resolver problemas complejos. Con 24 años y desde Cali, Colombia, estoy constantemente buscando formas de sobresalir y hacer una diferencia en el mundo tecnológico. Mi objetivo es no solo seguir creciendo en mis conocimientos, sino también colaborar en proyectos desafiantes que me permitan aportar y aprender al mismo tiempo.<br><br>Me motiva la idea de innovar y de utilizar la tecnología para mejorar el futuro, especialmente en áreas como la automatización, el análisis de datos y el desarrollo de soluciones inteligentes. Siempre busco ser parte de equipos donde el trabajo colaborativo sea clave, pero también disfruto de los desafíos individuales que requieren creatividad y un enfoque fuera de lo común.<br><br>Estoy abierto a nuevas oportunidades y proyectos emocionantes que me permitan seguir expandiendo mis habilidades y conocimientos. Si estás buscando a alguien apasionado, con ganas de crecer y listo para enfrentar nuevos retos, ¡me encantaría ser parte de tu equipo!<br><br>¡Hablemos y construyamos algo increíble juntos! 💻✨
+
+
+## 🌐 Redes sociales:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/cbastian_) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/juansebastian.montoyafranco/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/juan_s_montoya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/juansebastianmontoyafranco/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@@cbastianpriv) 
+
+# 💻 Conocimientos:
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Vagrant](https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
+# 📊 Estadísticas:
+![](https://github-readme-stats.vercel.app/api?username=JuanSebastianMontoyaFranco&theme=monokai&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=JuanSebastianMontoyaFranco&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=JuanSebastianMontoyaFranco&theme=monokai&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=JuanSebastianMontoyaFranco&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
